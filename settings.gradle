@@ -1,0 +1,3 @@
+include ':app', ':android-mvvm-framework', ':android-mvvm-ui'
+rootProject.name='Android-MVVM'
+println('i am setting')
